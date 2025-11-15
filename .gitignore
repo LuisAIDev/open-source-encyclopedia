@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Directorios de trabajo
+node_modules/
+dist/
+build/
+
+# Backups
+*.bak
+*.old
